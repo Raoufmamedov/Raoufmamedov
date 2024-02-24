@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 
 <div id="header" align="center">
-  <img src=./Raoufmamedov/giphy.gif" />
+  <img src=/Raoufmamedov/giphy.gif" />
 </div>
