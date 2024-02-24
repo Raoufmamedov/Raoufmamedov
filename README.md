@@ -16,4 +16,6 @@ Here are some ideas to get you started:
 -->
 
 
-![](https://github.com/Raoufmamedov/giphy.gif)
+<div id="header" align="center">
+  <img src=https://github.com/Raoufmamedov/giphy.gif" width="100"/>
+</div>
