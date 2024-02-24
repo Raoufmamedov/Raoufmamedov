@@ -16,9 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-
-<div id="header" align="center">
-  <img src="https://github.com/Raoufmamedov/world.gif" width="100"/>
-</div>
-
-
+![Demo File](https://github.com/Raoufmamedov/Raoufmamedov/World.gif)
