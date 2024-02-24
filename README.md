@@ -15,7 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-<div id="header" align="center">
-  <img src=/Raoufmamedov/giphy.gif" />
-</div>
+![](https://github.com/Raoufmamedov/giphy.gif)
