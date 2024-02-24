@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-<iframe src="https://giphy.com/embed/HUplkVCPY7jTW" width="343" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/watson-geekout-HUplkVCPY7jTW">via GIPHY</a></p>
+![](https://github.com/Raoufmamedov/giphy.gif)
