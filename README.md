@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 
 </div>
 
-![Raoufmamedov](img src="./Raoufmamedov/World.gif" width="300")
+![Raoufmamedov](./Raoufmamedov/World.gif)
