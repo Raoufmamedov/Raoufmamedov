@@ -1,5 +1,5 @@
 ### Hi there 👋
-![](https://github.com/Raoufmamedov/giphy.gif)
+![](https://github.com/Raoufmamedov/Raoufmamedov/giphy.gif)
 <!--
 **Raoufmamedov/Raoufmamedov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
