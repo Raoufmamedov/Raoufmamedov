@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 
 </div>
 
-![Raoufmamedov](./Raoufmamedov/World.gif)
+![Raoufmamedov](https://Raoufmamedov/Raoufmamedov/World.gif)
