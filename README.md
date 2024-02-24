@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-![Demo File](./Raoufmamedov/World.gif)
+![Demo File](Raoufmamedov/World.gif)
