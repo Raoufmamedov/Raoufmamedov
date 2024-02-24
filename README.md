@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 </div>
 -->
 
-![](https://github.com/Raoufmamedov/World.gif)
+![](https://github.com/Raoufmamedov/Raoufmamedov/World.gif)
