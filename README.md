@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](./Raoufmamedov/giphy.gif)
+![](https://github.com/Raoufmamedov/giphy.gif)
+
