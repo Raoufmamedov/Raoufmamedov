@@ -1,5 +1,5 @@
 ### Hi there 👋
-![](https://github.com/Raoufmamedov/Raoufmamedov/giphy.gif)
+![](https://giphy.com/gifs/watson-geekout-HUplkVCPY7jTW)
 <!--
 **Raoufmamedov/Raoufmamedov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,6 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
 
