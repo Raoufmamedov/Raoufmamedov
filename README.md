@@ -13,6 +13,11 @@
 <p align="left">
 <a href="https://linkedin.com/in/raoufmamedov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raoufmamedov" height="30" width="40" /></a>
 <a href="https://kaggle.com/raoufmamedov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="raoufmamedov" height="30" width="40" /></a>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/raoufmamedov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raoufmamedov" height="30" width="40" /></a>
+<a href="https://kaggle.com/raoufmamedov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="raoufmamedov" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -35,7 +40,7 @@
   <a href="https://www.jetbrains.com/ru-ru/pycharm/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" alt="pycharm" width="40" height="40"/> </a>
   <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40"/> </a>
   <a href="https://www.spyder-ide.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/spyder/spyder-original-wordmark.svg" alt="spyder" width="40" height="40"/> </a>
-  <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntuoriginal-wordmark.svg" alt="ubuntu" width="40" height="40"/> </a>
+  <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original-wordmark.svg" alt="ubuntu" width="40" height="40"/> </a>
   
 </p>
 
