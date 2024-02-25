@@ -3,12 +3,12 @@
 
 
 
-<h1 align="center">Здравствуйте 👋, Я Рауф</h1>
+<h1 align="center">Здравствуйте 👋, Я Рауф Мамедов</h1>
 <h3 align="center">Увлечённый исследователь данных</h3>
 
 - 🔭 В настоящее время я работаю над проектом парсинга данных сервиса HH.ru [DS_vacancies_statistics_parsing_and_study.ipynb](https://github.com/Raoufmamedov/HH.ru-parsing/blob/main/DS_vacancies_statistics_parsing_and_study.ipynb)
 
-- 🌱 I’m currently learning **Airflow, MLFlow, Spark, **
+- 🌱 I’m currently learning **Airflow, MLFlow, Spark**
 
 - 📫 Способы связи со мной **raouf.mamedov@gmail.com**
 
