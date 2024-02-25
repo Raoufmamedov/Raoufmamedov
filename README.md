@@ -6,8 +6,6 @@
 <h1 align="center">Здравствуйте 👋, Я Рауф</h1>
 <h3 align="center">Увлечённый исследователь данных</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=raoufmamedov&label=Profile%20views&color=0e75b6&style=flat" alt="raoufmamedov" /> </p>
-
 - 🔭 В настоящее время я работаю над проектом парсинга данных сервиса HH.ru [DS_vacancies_statistics_parsing_and_study.ipynb](https://github.com/Raoufmamedov/HH.ru-parsing/blob/main/DS_vacancies_statistics_parsing_and_study.ipynb)
 
 - 🌱 I’m currently learning **Airflow, MLFlow, Spark, **
