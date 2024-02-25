@@ -1,9 +1,11 @@
 <h1 align="center">Здравствуйте 👋, Я Рауф Мамедов</h1>
 <h3 align="center">Увлечённый исследователь данных</h3>
 
-- 🔭 В настоящее время я работаю над проектом парсинга данных сервиса HH.ru [DS_vacancies_statistics_parsing_and_study.ipynb](https://github.com/Raoufmamedov/HH.ru-parsing/blob/main/DS_vacancies_statistics_parsing_and_study.ipynb)
+- 🔭 В настоящее время я работаю над проектом парсинга и анализа данных сервиса HH.ru [DS_vacancies_statistics_parsing_and_study.ipynb](https://github.com/Raoufmamedov/HH.ru-parsing/blob/main/DS_vacancies_statistics_parsing_and_study.ipynb)
 
-- 🌱 I’m currently learning **Airflow, MLFlow, Spark**
+- 🌱 В настоящее время я изучаю **Airflow, MLFlow, Spark**
+
+- 🌱🌱 Дальнейшие области освоения **Redis, Java, Hive, Clickhouse**
 
 - 📫 Способы связи со мной **raouf.mamedov@gmail.com**
 
@@ -13,6 +15,7 @@
 <p align="left">
   <a href="https://linkedin.com/in/raoufmamedov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raoufmamedov" height="30" width="40" /></a>
 <a href="https://kaggle.com/raoufmamedov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="raoufmamedov" height="30" width="40" /></a>
+  <a href="https://t.me/raouf_mamedov" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="raouf_mamedov" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -37,8 +40,13 @@
   <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" alt="ubuntu" width="40" height="40"/> </a>
   <a href="https://sympy.org/" target="_blank" rel="noreferrer"> <img src="https://docs.sympy.org/dev/_images/sympy.svg" alt="sympy" width="40" height="40"/> </a>
  <a href="https://xgboost.ai" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/0f091e4259df42e93eb9658f8fc224c8075d01ffc7a4bed16a78b06524e4b4a6/68747470733a2f2f7867626f6f73742e61692f696d616765732f6c6f676f2f7867626f6f73742d6c6f676f2e737667" alt="XGBoost" width="60" height="40"/> </a>
+<a href="https://scipy.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/SCIPY_2.svg" alt="scipy" width="40" height="40"/> </a>
+<a href="https://optuna.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/optuna/optuna/master/docs/image/optuna-logo.png" alt="optuna" width="100" height="30"/> </a>
+<a href="https://www.statsmodels.org/" target="_blank" rel="noreferrer"> <img src="https://www.statsmodels.org/stable/_images/statsmodels-logo-v2.svg" alt="statsmodels" width="100" height="30"/> </a>
+ 
 
  
+
   
 </p>
 
@@ -48,7 +56,7 @@
 -->
 
 
-https://docs.sympy.org/dev/_images/sympy.svg
+
 
 
 
