@@ -1,13 +1,8 @@
 <h1 align="center">Здравствуйте 👋, Я Рауф Мамедов</h1>
 <h3 align="center">Увлечённый исследователь данных</h3>
+<br>
 
-<p>
-
-
-
-
-  
-</p>
+</br>
 
 - 🔭 В настоящее время я работаю над проектом парсинга и анализа данных сервиса HH.ru [DS_vacancies_statistics_parsing_and_study.ipynb](https://github.com/Raoufmamedov/HH.ru-parsing/blob/main/DS_vacancies_statistics_parsing_and_study.ipynb)
 
@@ -15,15 +10,16 @@
 
 - 🌱🌱 Дальнейшие области освоения **Redis, Java, Hive, Clickhouse**
 
-- 📫 Способы связи со мной **raouf.mamedov@gmail.com**
+- 📫 Адрес моей электронной почты **raouf.mamedov@gmail.com**
 
 - 📄 Узнать о моём опыте можно здесь [https://hh.ru/resume/8fcd3752ff0ae047e30039ed1f6671716f6948](https://hh.ru/resume/8fcd3752ff0ae047e30039ed1f6671716f6948)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/raoufmamedov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raoufmamedov" height="30" width="40" /></a>
-<a href="https://kaggle.com/raoufmamedov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="raoufmamedov" height="30" width="40" /></a>
+  <a href="https://kaggle.com/raoufmamedov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="raoufmamedov" height="30" width="40" /></a>
   <a href="https://t.me/raouf_mamedov" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="raouf_mamedov" height="30" width="40" /></a>
+  <a href="https://habr.com/ru/users/Raouf/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/ru/7/7f/Habrahabr_logo.png" alt="@Raouf" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
