@@ -7,7 +7,7 @@
 
 
 
-- 🔭 В настоящее время я работаю над проектом парсинга и анализа данных сервиса HH.ru [DS_vacancies_statistics_parsing_and_study.ipynb](https://github.com/Raoufmamedov/HH.ru-parsing/blob/main/DS_vacancies_statistics_parsing_and_study.ipynb)
+- 🔭 Работаю над проектом парсинга и анализа данных сервиса HH.ru [DS_vacancies_statistics_parsing_and_study.ipynb](https://github.com/Raoufmamedov/HH.ru-parsing/blob/main/DS_vacancies_statistics_parsing_and_study.ipynb)
 
 - 🌱 В настоящее время я изучаю **Airflow, MLFlow, Spark**
 
