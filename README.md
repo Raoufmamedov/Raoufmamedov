@@ -73,7 +73,7 @@
  <a href="https://xgboost.ai" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/0f091e4259df42e93eb9658f8fc224c8075d01ffc7a4bed16a78b06524e4b4a6/68747470733a2f2f7867626f6f73742e61692f696d616765732f6c6f676f2f7867626f6f73742d6c6f676f2e737667" alt="XGBoost" width="60" height="40"/> </a>
 <a href="https://scipy.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/SCIPY_2.svg" alt="scipy" width="40" height="40"/> </a>
 <a href="https://optuna.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/optuna/optuna/master/docs/image/optuna-logo.png" alt="optuna" width="100" height="25"/> </a>
-<a href="https://www.statsmodels.org/" target="_blank" rel="noreferrer"> <img src="https://www.statsmodels.org/stable/_images/statsmodels-logo-v2.svg" alt="statsmodels" width="100" height="40"/> </a>
+<a href="https://www.statsmodels.org/" target="_blank" rel="noreferrer"> <img src="https://www.statsmodels.org/stable/_images/statsmodels-logo-v2.svg" alt="statsmodels" width="40" height="40"/> </a>
  <a href="https://radimrehurek.com/gensim/" target="_blank" rel="noreferrer"> <img src="https://numfocus.org/wp-content/uploads/2018/01/gensim-circle.png" alt="statsmodels" width="40" height="40"/> </a>
 
  
