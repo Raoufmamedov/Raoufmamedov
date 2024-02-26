@@ -23,13 +23,15 @@
 
 
 <h3 align="left">Буду рад пообщаться с Вами через мои социальные сети и мессенджеры:</h3>
-<br></br>
+
 <p align="left">
   <a href="https://linkedin.com/in/raoufmamedov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raoufmamedov" height="30" width="40" /></a>
   <a href="https://kaggle.com/raoufmamedov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="raoufmamedov" height="30" width="40" /></a>
   <a href="https://t.me/raouf_mamedov" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="raouf_mamedov" height="30" width="40" /></a>
   <a href="https://habr.com/ru/users/Raouf/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/ru/7/7f/Habrahabr_logo.png" alt="@Raouf" height="30" width="40" /></a>
+  
 </p>
+
 
 <h3 align="left">Языки и инструменты:</h3>
 <p align="left"> 
@@ -62,7 +64,7 @@
    
 </p>
 
-Мои Профессиональные Навыки:
+<h3 align="justify">Мои Профессиональные Навыки:</h3> 
 
 • Предобработка данных, Разведочный анализ данных, конструирование признаков
 
@@ -84,17 +86,17 @@
 
 • Google Looker (Google Data Studio)
 <br>
-
 </br>
 
+<p align="justify">  
 Строю свою карьеру в сфере Data Science и прошёл профильную переподготовку (со специализацией в области NLP). У меня есть опыт практического применения статистических методов (дискриминантный анализ и иерархический кластерный анализ), 
 с его помощью мне удалось выявить признак позволяющий надёжно определять принадлежность исследуемого образца нефти к тому или иному продуктивному горизонту, и благодаря этому была осуществлена коррекция привязки скважины к продуктивному интервалу.
 Также, у меня сформировался навык проактивного сбора данных (при необходимости с их обогащением внешними данными), уточнения техзаданий с техническими специалистами и ЛПР клиента, а также дальнейшего согласования с группой реализации, в том числе и итеративного.
-
-
+</p>
+<br>
+</br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raoufmamedov&show_icons=true&locale=en&layout=compact" alt="raoufmamedov" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raoufmamedov&hide=contribs,prs&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&locale=en" alt="raoufmamedov" /></p>
 
 
