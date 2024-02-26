@@ -1,5 +1,29 @@
 <h2 align="center">Здравствуйте 👋, Я Рауф Мамедов</h2>
-<h3 align="center">Увлечённый исследователь данных</h3>
+<h3 align="center">Увлечённый исследователь данных с инженерным образованием и широкой экспертизой в области поставок исследовательского и промышленного оборудования, а также в области
+лабораторных исследований.</h3>
+
+Я Data Scientist 
+Заинтересован в построении карьеры в сфере Data Science и прохожу профильное обучение.
+
+Обладаю опытом практического применения статистических методов (дискриминантный анализ и иерархический кластерный анализ) для коррекции продуктивного интервала нефтяных скважин.
+Имею богатый опыт уточнения с с техническими специалистами и ЛПР клиента техзадания, сбора данных и правильной постановки задачи.
+Быстро вливаюсь в процесс за счёт способности к быстрому обучению и самообучению, а также развитыми навыками поиска информации. Успешно работаю самостоятельно и в
+команде.
+считаю своей отличительной особенностью сочетание устойчивости к рутинным операциям со способностью подмечать то, что не видно другим и находить нестандартные
+решения.
+
+ПРОФЕССИОНАЛЬНЫЕ НАВЫКИ:
+
+• Предобработка данных, Разведочный анализ данных, конструирование признаков
+• Методы машинного обучения (с учителем, без учителя)
+• Математическая статистика, Математический анализ, Теория вероятностей, Линейная алгебра
+• Понимание основных алгоритмов машинного обучения ( )
+• SQL (PostgreSQL) .
+• Linux (Ubuntu)
+• Работа в средах Jupiterlab, Spyder, pyCharm, DBeaver
+• ПО для статистического анализа Statistica, SPSS и др.
+• Excel ( ВПР)
+• Google Looker (Google Data Studio)
 <br>
 
 </br>
@@ -28,10 +52,12 @@
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
+  <a href="https://dbeaver.io/" target="_blank" rel="noreferrer"> <img src="https://logos-download.com/wp-content/uploads/2022/12/DBeaver_Logo.png" alt="DBeaver" width="40" height="40"/> </a> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
   <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a>
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>
+  
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
   <a href="https://www.anaconda.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" alt="anaconda" width="40" height="40"/> </a>
   <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/> </a>
@@ -41,6 +67,7 @@
   <a href="https://www.jetbrains.com/ru-ru/pycharm/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" alt="pycharm" width="40" height="40"/> </a>
   <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40"/> </a>
   <a href="https://www.spyder-ide.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/spyder/spyder-original-wordmark.svg" alt="spyder" width="40" height="40"/> </a>
+  
   <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" alt="ubuntu" width="40" height="40"/> </a>
   <a href="https://sympy.org/" target="_blank" rel="noreferrer"> <img src="https://docs.sympy.org/dev/_images/sympy.svg" alt="sympy" width="40" height="40"/> </a>
  <a href="https://xgboost.ai" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/0f091e4259df42e93eb9658f8fc224c8075d01ffc7a4bed16a78b06524e4b4a6/68747470733a2f2f7867626f6f73742e61692f696d616765732f6c6f676f2f7867626f6f73742d6c6f676f2e737667" alt="XGBoost" width="60" height="40"/> </a>
