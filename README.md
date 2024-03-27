@@ -60,7 +60,7 @@
 <a href="https://optuna.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/optuna/optuna/master/docs/image/optuna-logo.png" alt="optuna" width="150" height="40"/> </a>
 <a href="https://www.statsmodels.org/" target="_blank" rel="noreferrer"> <img src="https://www.statsmodels.org/stable/_images/statsmodels-logo-v2.svg" alt="statsmodels" width="40" height="40"/> </a>
  <a href="https://radimrehurek.com/gensim/" target="_blank" rel="noreferrer"> <img src="https://numfocus.org/wp-content/uploads/2018/01/gensim-circle.png" alt="statsmodels" width="40" height="40"/> </a>
-
+ <a href="https://spark.apache.org/docs/latest/api/python/index.html" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/v2/format:webp/1*nPcdyVwgcuEZiEZiRqApug.jpeg" alt="PySpark" width="40" height="40"/> </a>
    
 </p>
 
