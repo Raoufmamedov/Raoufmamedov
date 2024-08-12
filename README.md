@@ -1,9 +1,7 @@
 <h3 align="center">Здравствуйте! 👋 Я Рауф Мамедов</h3>
 <h4 align="left"> Увлечённый Исследователь Данных с инженерным образованием и опытом коммерческой и исследовательской деятельности.</h4>
+<!-- -🔭Сейчас работаю над проектом парсинга и анализа данных сервиса HH.ru [НН_DS_vacancies_statistics_parsing_and_study](https://github.com/Raoufmamedov/HH.ru-parsing/blob/main/DS_vacancies_statistics_parsing_and_study.ipynb) -->
 <br>
-
-  
--  🔭 Сейчас работаю над проектом парсинга и анализа данных сервиса HH.ru [НН_DS_vacancies_statistics_parsing_and_study](https://github.com/Raoufmamedov/HH.ru-parsing/blob/main/DS_vacancies_statistics_parsing_and_study.ipynb)
 
 -  🌱 В настоящее время я изучаю **Airflow, MLFlow, Spark**
 
@@ -61,8 +59,9 @@
 <a href="https://www.statsmodels.org/" target="_blank" rel="noreferrer"> <img src="https://www.statsmodels.org/stable/_images/statsmodels-logo-v2.svg" alt="statsmodels" width="40" height="40"/> </a>
  <a href="https://radimrehurek.com/gensim/" target="_blank" rel="noreferrer"> <img src="https://numfocus.org/wp-content/uploads/2018/01/gensim-circle.png" alt="statsmodels" width="40" height="40"/> </a>
  <a href="https://spark.apache.org/docs/latest/api/python/index.html" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/v2/format:webp/1*nPcdyVwgcuEZiEZiRqApug.jpeg" alt="PySpark" width="100" height="40"/> </a>
-   
-</p>
+ <a href="https://zeppelin.apache.org/" target="_blank" rel="noreferrer"> <img src="https://zeppelin.apache.org/assets/themes/zeppelin/img/zeppelin_classic_logo.png" alt="Apache Zeppelin " width="100" height="40"/> </a>
+
+
 
 <h3 align="justify">Мои Профессиональные Навыки:</h3> 
 
