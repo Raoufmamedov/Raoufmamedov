@@ -62,6 +62,7 @@
  <a href="https://zeppelin.apache.org/" target="_blank" rel="noreferrer"> <img src="https://zeppelin.apache.org/assets/themes/zeppelin/img/zeppelin_classic_logo.png" alt="Apache Zeppelin " width="70" height="40"/> </a>
 <a href="https://redis.io/" target="_blank" rel="noreferrer"> <img src="https://banner2.cleanpng.com/20180614/at/kisspng-redis-distributed-cache-database-caching-wrapper-5b23184e29e4c3.6868417715290266381716.jpg" alt="Redis" width="70" height="40"/> </a>
 <a href="https://clickhouse.com/" target="_blank" rel="noreferrer"> <img src="https://imply.io/wp-content/uploads/2024/02/image-3.png" alt="ClickHouse" width="80" height="40"/> </a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/00/Mongodb.png" alt="Mongodb" width="80" height="40"/> </a>
 
   
 
