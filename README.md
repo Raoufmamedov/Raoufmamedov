@@ -60,7 +60,7 @@
  <a href="https://radimrehurek.com/gensim/" target="_blank" rel="noreferrer"> <img src="https://numfocus.org/wp-content/uploads/2018/01/gensim-circle.png" alt="statsmodels" width="40" height="40"/> </a>
  <a href="https://spark.apache.org/docs/latest/api/python/index.html" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/v2/format:webp/1*nPcdyVwgcuEZiEZiRqApug.jpeg" alt="PySpark" width="100" height="40"/> </a>
  <a href="https://zeppelin.apache.org/" target="_blank" rel="noreferrer"> <img src="https://zeppelin.apache.org/assets/themes/zeppelin/img/zeppelin_classic_logo.png" alt="Apache Zeppelin " width="70" height="40"/> </a>
-<a href="https://redis.io/" target="_blank" rel="noreferrer"> <img src="https://banner2.cleanpng.com/20180614/at/kisspng-redis-distributed-cache-database-caching-wrapper-5b23184e29e4c3.6868417715290266381716.jpg" alt="Redis" width="40" height="40"/> </a>
+<a href="https://redis.io/" target="_blank" rel="noreferrer"> <img src="https://banner2.cleanpng.com/20180614/at/kisspng-redis-distributed-cache-database-caching-wrapper-5b23184e29e4c3.6868417715290266381716.jpg" alt="Redis" width="70" height="40"/> </a>
 
 
 <h3 align="justify">Мои Профессиональные Навыки:</h3> 
