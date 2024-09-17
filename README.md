@@ -3,7 +3,7 @@
 <!-- -🔭Сейчас работаю над проектом парсинга и анализа данных сервиса HH.ru [НН_DS_vacancies_statistics_parsing_and_study](https://github.com/Raoufmamedov/HH.ru-parsing/blob/main/DS_vacancies_statistics_parsing_and_study.ipynb) -->
 <br>
 
--  🌱 В настоящее время я изучаю **Airflow, MLFlow, Spark**
+-  🌱 В настоящее время я изучаю **Airflow, MLFlow, Spark, Aiogram**
 
 -  📋 Планируемые области дальнейшего освоения **Data Engineering, ML Engineering** 
   
