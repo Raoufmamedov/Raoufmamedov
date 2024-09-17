@@ -53,7 +53,7 @@
   <a href="https://www.spyder-ide.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/spyder/spyder-original-wordmark.svg" alt="spyder" width="40" height="40"/> </a>
   <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" alt="ubuntu" width="40" height="40"/> </a>
   <a href="https://sympy.org/" target="_blank" rel="noreferrer"> <img src="https://docs.sympy.org/dev/_images/sympy.svg" alt="sympy" width="40" height="40"/> </a>
- <a href="https://xgboost.ai" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/0f091e4259df42e93eb9658f8fc224c8075d01ffc7a4bed16a78b06524e4b4a6/68747470733a2f2f7867626f6f73742e61692f696d616765732f6c6f676f2f7867626f6f73742d6c6f676f2e737667" alt="XGBoost" width="60" height="40"/> </a>
+ <a href="https://xgboost.ai" target="_blank" rel="noreferrer"> <img src="https://xgboost.ai/images/logo/xgboost-logo-trimmed.png" alt="XGBoost" width="60" height="40"/> </a>
 <a href="https://scipy.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/SCIPY_2.svg" alt="scipy" width="40" height="40"/> </a>
 <a href="https://optuna.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/optuna/optuna/master/docs/image/optuna-logo.png" alt="optuna" width="160" height="40"/> </a>
 <a href="https://www.statsmodels.org/" target="_blank" rel="noreferrer"> <img src="https://www.statsmodels.org/stable/_images/statsmodels-logo-v2.svg" alt="statsmodels" width="40" height="40"/> </a>
