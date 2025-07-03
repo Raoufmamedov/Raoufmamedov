@@ -3,8 +3,8 @@
 <!-- -🔭Сейчас работаю над проектом парсинга и анализа данных сервиса HH.ru [НН_DS_vacancies_statistics_parsing_and_study](https://github.com/Raoufmamedov/HH.ru-parsing/blob/main/DS_vacancies_statistics_parsing_and_study.ipynb) -->
 <br>
 
--  🌱 В настоящее время я изучаю **R, LLM, MLFlow, Spark, River**
-
+-  🌱 В настоящее время я изучаю **R, LLM, MLFlow, Spark, River, FastAPI**
+,
 -  📋 Планируемые области дальнейшего освоения **Neo4j, Julia, Aiogram,** 
   
 -  📄 Узнать о моём опыте можно **[здесь](https://hh.ru/resume/0fdf6edaff0d9ad8350039ed1f327969305955)**
